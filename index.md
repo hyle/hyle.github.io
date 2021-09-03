@@ -1,4 +1,8 @@
 ---
 ---
 
-Welcome to My Home Page
+A Quine in python
+
+{% highlight python %}
+_='_=%r;print (_%%_)';print (_%_)
+{% endhighlight %}
